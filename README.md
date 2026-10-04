@@ -1,4 +1,4 @@
-# Basal Hand Market V3
+BAHMA 
 Improved no-API/no-domain storefront.
 - Responsive design
 - 10 sample products
