@@ -1,7 +1,7 @@
 const W="250724875721";const P=[["Infinix Smart 8","Phones",175000,"📱","Quality smartphone"],
 ["Infinix Hot 70","Phones",165000,"📱","Quality smartphone"],
 ["TECNO Pop 9","Phones",135000,"tecno-pop-9.jpg","Quality smartphone"],
-["TECNO Pop 10","Phones",150000,"📱","Quality smartphone"],
+["TECNO Pop 10","Phones",150000,"tecno-pop-10.jpg","Quality smartphone"],
 ["TECNO Pop 20","Phones",185000,"📱","Quality smartphone"],
 ["TECNO Spark 30C","Phones",200000,"📱","Quality smartphone"],
 ["TECNO Spark 30 Pro","Phones",195000,"📱","Quality smartphone"],
