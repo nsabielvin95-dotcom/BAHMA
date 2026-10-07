@@ -1,4 +1,4 @@
-const W="250724875721";const P=[["Infinix Smart 8","Phones",175000,"📱","Quality smartphone"],
+const W="250724875721";const P=[["Infinix Smart 8","Phones",175000,"infinix-smart-8.jpg","Quality smartphone"],
 ["Infinix Hot 70","Phones",165000,"📱","Quality smartphone"],
 ["TECNO Pop 9","Phones",135000,"tecno-pop-9.jpg","Quality smartphone"],
 ["TECNO Pop 10","Phones",150000,"tecno-pop-10.jpg","Quality smartphone"],
