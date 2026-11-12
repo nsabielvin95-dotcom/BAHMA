@@ -1,0 +1,13 @@
+{
+  "background_color": "#ffffff",
+  "description": "BAHMA Online Shopping Marketplace. Shop phones, TVs, electronics and more in Rwanda.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "BAHMA",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "BAHMA",
+  "start_url": "/",
+  "theme_color": "#000000",
+  "id": "bahma-online-market"
+}
